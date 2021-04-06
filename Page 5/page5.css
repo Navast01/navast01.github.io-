@@ -1,0 +1,25 @@
+body{
+    font-family:'Lucida Console';
+}
+h1{
+    font-size: 36px;
+    color: black;
+    width: 600px;
+    margin: 0 auto;
+}
+#simple {
+    font-size: 18px;
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border: solid;
+  }
+  
+#fancy {
+    font-size: 24px;
+    width: 700px;
+    margin: 20px auto;
+    padding: 80px;
+    border-width: 10px;
+    border: solid;
+  }

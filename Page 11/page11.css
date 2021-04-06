@@ -1,0 +1,11 @@
+body{
+    font-family:'Lucida Console';
+}
+img {
+    float: right;
+}
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+    border-style: solid;
+}

@@ -1,0 +1,13 @@
+body{
+    font-family:'Lucida Console';
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style: solid;
+}
+.after-box {
+    clear: left;
+}
